@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://IrisBox.github.io/AndysTest/annotations/annotations1.json" ],
+  "@id" : "https://IrisBox.github.io/AndysTest/annotations/collection.json",
+  "label" : "All annotations loaded in IrisBox/AndysTest project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
